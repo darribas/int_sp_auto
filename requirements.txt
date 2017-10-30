@@ -1,2 +1,3 @@
 pysal
 seaborn
+scipy==0.9
