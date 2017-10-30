@@ -1,4 +1,3 @@
 pysal
 seaborn
-numpy
-scipy==0.9
+scipy==0.19
