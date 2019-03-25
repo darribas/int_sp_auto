@@ -1,4 +1,0 @@
-ipywidgets
-pysal
-seaborn
-scipy==0.19
